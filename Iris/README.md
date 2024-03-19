@@ -19,10 +19,10 @@ The performance of the logistic regression model is evaluated using the followin
 
 After training and evaluating our logistic regression model, we achieved the following optimal performance metrics:
 
-- **Accuracy:** X%
-- **Precision:** X%
-- **Recall:** X%
-- **F1 Score:** X%
+- **Accuracy:** 96%
+- **Precision:** 96%
+- **Recall:** 96%
+- **F1 Score:** 96%
 
 ## Instructions
 
