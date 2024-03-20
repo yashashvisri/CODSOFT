@@ -19,10 +19,10 @@ This project focuses on classifying iris flowers into three species based on fea
 In this project, we analyze the Titanic dataset to predict whether a passenger survived or not based on various features such as age, sex, ticket class, and cabin. The objective is to develop a model that accurately predicts the survival outcome of passengers aboard the Titanic.
 
 #### Metrics:
-- Accuracy
-- Precision
-- Recall
-- F1 Score
+- Accuracy: 0.7877094972067039
+- Precision: 0.7877094972067039
+- Recall: 0.7877094972067039
+- F1 Score: 0.7877094972067039
 
 ### 3. Credit Card Fraud Detection
 
