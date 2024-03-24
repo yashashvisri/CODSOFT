@@ -9,30 +9,30 @@ Welcome to the Codsoft Internship Program repository! This repository contains p
 This project focuses on classifying iris flowers into three species based on features like sepal length, sepal width, petal length, and petal width. The goal is to build a machine learning model that can accurately predict the species of iris flowers.
 
 #### Metrics:
-- Accuracy
-- Precision
-- Recall
-- F1 Score
+- Accuracy: 0.96
+- Precision: 0.96
+- Recall: 0.96
+- F1 Score: 0.96
 
 ### 2. Titanic Survival Prediction
 
 In this project, we analyze the Titanic dataset to predict whether a passenger survived or not based on various features such as age, sex, ticket class, and cabin. The objective is to develop a model that accurately predicts the survival outcome of passengers aboard the Titanic.
 
 #### Metrics:
-- Accuracy: 0.7877094972067039
-- Precision: 0.7877094972067039
-- Recall: 0.7877094972067039
-- F1 Score: 0.7877094972067039
+- Accuracy: 0.78
+- Precision: 0.78
+- Recall: 0.78
+- F1 Score: 0.78
 
 ### 3. Credit Card Fraud Detection
 
 The credit card fraud detection project involves identifying fraudulent credit card transactions from a dataset containing various transaction features. The aim is to create a model that effectively detects fraudulent activities, minimizing financial losses for credit card companies and customers.
 
 #### Metrics:
-- Accuracy
-- Precision
-- Recall
-- F1 Score
+- Accuracy:0.99
+- Precision:0.99
+- Recall: 0.99
+- F1 Score: 0.99
 
 ## Evaluation Criteria
 
